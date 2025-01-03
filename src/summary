@@ -1,0 +1,12 @@
+strings: 1000
+programs: 12
+using: ["binary search",
+        "array list",
+        "array",
+        "random",
+        "scanner" ,
+        "2d array",
+        "strings",
+        "integers",
+        "chars",
+        "OOP"]
